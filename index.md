@@ -13,7 +13,7 @@
 	 - [SFig 1 - Permuted GreAB-C structure model](./supp_images_jpeg/sup1.html)
 	 - [SFig 2 - Double PIN structure model](./supp_images_jpeg/sup2.html)
 	 - [SFig 3 - Phylogenetic tree of the Orc/Cdc6 proteins](./supp_images_jpeg/sup3.html)
-	 - [SFig 4 - Sequence logo of multiples Calcineurin families](./supp_images_jpeg/sup4.html)
+	 - [SFig 4 - Sequence logos of different Calcineurin-like phosphoesterase families](./supp_images_jpeg/sup4.html)
 	 - [SFig 5 - Activity site and conserved residues from the Calcineurin-CE domain](./supp_images_jpeg/sup5.html)
 	 - [SFig 6 - Activity site and conserved residues from the HD-CE domain](./supp_images_jpeg/sup6.html)
 	 - [SFig 7 - Activity site and conserved residues from the PRTase-CE domain](./supp_images_jpeg/sup7.html)
