@@ -10,14 +10,14 @@
 1. Download all Supplementary files and data as one PDF file.
      - [PDF file](./Supp_material_r.pdf)
 2. Supplementary Figures  
-	 - [SFig 1 - Permuted GreAB-C structure model](./supp_fig/sup1.html)
-	 - [SFig 2 - Double PIN structure model](./supp_fig/sup2.html)
-	 - [SFig 3 - Phylogenetic tree of the Orc/Cdc6 proteins](./supp_fig/sup3.html)
-	 - [SFig 4 - Sequence logos of different Calcineurin-like phosphoesterase families](./supp_fig/sup4.html)
-	 - [SFig 5 - Activity site and conserved residues from the Calcineurin-CE domain](./supp_fig/sup5.html)
-	 - [SFig 6 - Activity site and conserved residues from the HD-CE domain](./supp_fig/sup6.html)
-	 - [SFig 7 - Activity site and conserved residues from the PRTase-CE domain](./supp_fig/sup7.html)
-	 - [SFig 8 - AlphaFold confidence score for the models produced on the present work](./supp_fig/sup8.html)
+	 - [Supplementary Figure 1 - Permuted GreAB-C structure model](./supp_fig/sup1.html)
+	 - [Supplementary Figure 2 - Double PIN structure model](./supp_fig/sup2.html)
+	 - [Supplementary Figure 3 - Phylogenetic tree of the Orc/Cdc6 proteins](./supp_fig/sup3.html)
+	 - [Supplementary Figure 4 - Sequence logos of different Calcineurin-like phosphoesterase families](./supp_fig/sup4.html)
+	 - [Supplementary Figure 5 - Activity site and conserved residues from the Calcineurin-CE domain](./supp_fig/sup5.html)
+	 - [Supplementary Figure 6 - Activity site and conserved residues from the HD-CE domain](./supp_fig/sup6.html)
+	 - [Supplementary Figure 7 - Activity site and conserved residues from the PRTase-CE domain](./supp_fig/sup7.html)
+	 - [Supplementary Figure 8 - AlphaFold confidence score for the models produced on the present work](./supp_fig/sup8.html)
 3. Supplementary Data  
 	A. Genome contextual data  
 		- [AEP-1D](./operons/AEP1D.html)  
