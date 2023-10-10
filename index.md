@@ -8,7 +8,7 @@
 </p>
 
 1. Download all Supplementary files and data as one PDF file.
-     - [PDF file](./Supp_material_r.pdf)
+     - [PDF file](./Supp_material.pdf)
 2. Supplementary Figures  
 	 - [Supplementary Figure S1 - Permuted GreAB-C structure model](./supp_fig/sup1.html)
 	 - [Supplementary Figure S2 - Double PIN structure model](./supp_fig/sup2.html)
